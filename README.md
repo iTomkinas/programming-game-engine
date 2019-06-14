@@ -8,7 +8,7 @@
 
 
 ## How to win the game?
-
+noone
 
 ## How to write bot
 
