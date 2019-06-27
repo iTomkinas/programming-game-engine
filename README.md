@@ -26,3 +26,4 @@ interface Player {
 
 Each turn `executeActions` is invoked where player gets `map` object which contains all the details what's happening in the game. It is expected to get back a list of actions player could take.
 
+test
