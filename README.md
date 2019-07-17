@@ -8,7 +8,7 @@
 
 
 ## How to win the game?
-win? there is no win
+win?
 
 ## How to write bot
 
@@ -23,3 +23,5 @@ interface Player {
     fun getName(): String  
 }
 ```
+
+asd
