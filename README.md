@@ -8,7 +8,7 @@ sa
 
 
 ## How to win the game?
-impossible
+N/A - test
 
 labukas
 
@@ -25,3 +25,5 @@ interface Player {
     fun getName(): String  
 }
 ```
+
+figaro
