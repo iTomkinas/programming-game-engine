@@ -8,7 +8,7 @@ sa
 
 
 ## How to win the game?
-win? figaro
+impossible
 
 ## How to write bot
 
