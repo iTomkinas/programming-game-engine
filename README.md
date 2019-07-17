@@ -24,4 +24,4 @@ interface Player {
 }
 ```
 
-labukas
+figaro
