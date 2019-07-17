@@ -25,3 +25,6 @@ interface Player {
     fun getName(): String  
 }
 ```
+
+
+testukas
