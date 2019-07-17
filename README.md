@@ -24,4 +24,4 @@ interface Player {
 }
 ```
 
-asd
+vienas
