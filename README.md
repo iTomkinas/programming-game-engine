@@ -10,6 +10,8 @@ sa
 ## How to win the game?
 impossible
 
+labukas
+
 ## How to write bot
 
 To write bot - Player interface has to be implemented:
