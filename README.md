@@ -24,4 +24,4 @@ interface Player {
 }
 ```
 
-vienas
+[Testukas]
