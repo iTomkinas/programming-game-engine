@@ -23,5 +23,3 @@ interface Player {
     fun getName(): String  
 }
 ```
-
-dalbaja
