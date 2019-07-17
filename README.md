@@ -8,9 +8,7 @@ sa
 
 
 ## How to win the game?
-impossible
-
-labukas
+N/A
 
 ## How to write bot
 
@@ -25,6 +23,3 @@ interface Player {
     fun getName(): String  
 }
 ```
-
-
-testukas
