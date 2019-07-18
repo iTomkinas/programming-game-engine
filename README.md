@@ -8,9 +8,6 @@ sa
 
 
 ## How to win the game?
-N/A - test
-
-
 
 ## How to write bot
 
