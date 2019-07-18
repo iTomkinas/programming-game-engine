@@ -22,3 +22,6 @@ interface Player {
     fun getName(): String  
 }
 ```
+
+
+fino
