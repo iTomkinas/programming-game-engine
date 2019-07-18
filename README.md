@@ -1,5 +1,5 @@
 # Programming game 
-test
+
 
 ## How the game works?
 
