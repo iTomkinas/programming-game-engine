@@ -8,6 +8,7 @@ test
 
 
 ## How to win the game?
+nobody
 
 ## How to write bot
 
@@ -22,3 +23,5 @@ interface Player {
     fun getName(): String  
 }
 ```
+
+ff
