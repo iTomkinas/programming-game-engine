@@ -10,7 +10,7 @@ sa
 ## How to win the game?
 N/A - test
 
-labukas
+
 
 ## How to write bot
 
